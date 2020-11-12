@@ -73,14 +73,13 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Raymon
-    Name       Ray 'Open Source Information Facebook'
+    Devloper     Faaizul
+    Name       Faizul 'Open Source Information Facebook'
     CodeName   Ray
     version    full version
-    Date       16/05/2018 09:35:12
+    Date       12/09/2020 09:35:12
     Team       Blackhole Security
-    Email      mond5242@gmail.com
-    Telegram   Ray
+    Email      gelengbucin@gmail.com
 
 * if you find any errors or problems , please contact
   author
